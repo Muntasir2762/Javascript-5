@@ -1,0 +1,20 @@
+
+Function => Kaj, Onusthan
+
+Body => Kaj
+Parameter => 
+
+
+function functionName(){
+    //Statement...
+}
+
+function functionName(Parameter){
+    //Statement...
+}
+
+Event => Ghotona, Muhorto
+
+event => onclick, onchange, onblur, onkeyup, onkeydown, onsubmit, onmouseover, onmouseout, onload
+
+DOM => Document Object Model
